@@ -12,6 +12,7 @@ import platform
 
 #syteminfo program
 def get_platform_info():
+	print (platform.platform())
 	return platform.platform()
 
 if __name__ == '__main__':
