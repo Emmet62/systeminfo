@@ -18,6 +18,9 @@ systeminfo
 
 Python package for comp30670 assignment
 
+systeminfo is a python module. Once installed, the module can be imported and the function 
+get_platform_info() can be used to return the platfrom information of the computer
+
 
 * Free software: MIT license
 * Documentation: https://systeminfo.readthedocs.io.
