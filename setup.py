@@ -35,7 +35,7 @@ setup(
     description="Python package for comp30670 assignment",
     entry_points={
         'console_scripts': [
-            'systeminfo=systeminfo.cli:main',
+            'systeminfo=systeminfo.systeminfo:main',
         ],
     },
     install_requires=requirements,
